@@ -1,0 +1,431 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3488DD1D-5CBA-4643-B1BF-F3B197201E35}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QLCH</RootNamespace>
+    <AssemblyName>QLCH</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BanHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BanHang.Designer.cs">
+      <DependentUpon>BanHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BaoCaoBanHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaoCaoBanHang.Designer.cs">
+      <DependentUpon>BaoCaoBanHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BaoCaoNhapHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaoCaoNhapHang.Designer.cs">
+      <DependentUpon>BaoCaoNhapHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DangKy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DangKy.Designer.cs">
+      <DependentUpon>DangKy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DangNhap.Designer.cs">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhanVien.Designer.cs">
+      <DependentUpon>NhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Global_Name.cs" />
+    <Compile Include="KhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhachHang.Designer.cs">
+      <DependentUpon>KhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoaiSanPham.cs" />
+    <Compile Include="LoaiSP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoaiSP.Designer.cs">
+      <DependentUpon>LoaiSP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm2.Designer.cs">
+      <DependentUpon>MainForm2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MY_DB.cs" />
+    <Compile Include="NCC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NCC.Designer.cs">
+      <DependentUpon>NCC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="nhacungcap.cs" />
+    <Compile Include="NhapHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhapHang.Designer.cs">
+      <DependentUpon>NhapHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QLCHDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLCHDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLCHDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLCHDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLCHDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLCHDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLCHDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLCHDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLCHDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLCHDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLCHDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLCHDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLCHDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLCHDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report.Designer.cs">
+      <DependentUpon>report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="reportNhapHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reportNhapHang.Designer.cs">
+      <DependentUpon>reportNhapHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SanPham.Designer.cs">
+      <DependentUpon>SanPham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SanPham1.cs" />
+    <Compile Include="SanPhamDaMua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SanPhamDaMua.Designer.cs">
+      <DependentUpon>SanPhamDaMua.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Static.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Static.Designer.cs">
+      <DependentUpon>Static.cs</DependentUpon>
+    </Compile>
+    <Compile Include="staticNhapHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="staticNhapHang.Designer.cs">
+      <DependentUpon>staticNhapHang.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BanHang.resx">
+      <DependentUpon>BanHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaoCaoBanHang.resx">
+      <DependentUpon>BaoCaoBanHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaoCaoNhapHang.resx">
+      <DependentUpon>BaoCaoNhapHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DangKy.resx">
+      <DependentUpon>DangKy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DangNhap.resx">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhanVien.resx">
+      <DependentUpon>NhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhachHang.resx">
+      <DependentUpon>KhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoaiSP.resx">
+      <DependentUpon>LoaiSP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm2.resx">
+      <DependentUpon>MainForm2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NCC.resx">
+      <DependentUpon>NCC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhapHang.resx">
+      <DependentUpon>NhapHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="report.resx">
+      <DependentUpon>report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="Report3.rdlc" />
+    <EmbeddedResource Include="Report4.rdlc" />
+    <EmbeddedResource Include="reportNhapHang.resx">
+      <DependentUpon>reportNhapHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SanPham.resx">
+      <DependentUpon>SanPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SanPhamDaMua.resx">
+      <DependentUpon>SanPhamDaMua.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Static.resx">
+      <DependentUpon>Static.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="staticNhapHang.resx">
+      <DependentUpon>staticNhapHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Resource\2157e7d7cd8852a.jpg" />
+    <None Include="QLCHDataSet.xsc">
+      <DependentUpon>QLCHDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QLCHDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLCHDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLCHDataSet.xss">
+      <DependentUpon>QLCHDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QLCHDataSet1.xsc">
+      <DependentUpon>QLCHDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="QLCHDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLCHDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLCHDataSet1.xss">
+      <DependentUpon>QLCHDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="QLCHDataSet2.xsc">
+      <DependentUpon>QLCHDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="QLCHDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLCHDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLCHDataSet2.xss">
+      <DependentUpon>QLCHDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="QLCHDataSet3.xsc">
+      <DependentUpon>QLCHDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="QLCHDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLCHDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLCHDataSet3.xss">
+      <DependentUpon>QLCHDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="QLCHDataSet4.xsc">
+      <DependentUpon>QLCHDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="QLCHDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLCHDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLCHDataSet4.xss">
+      <DependentUpon>QLCHDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="QLCHDataSet5.xsc">
+      <DependentUpon>QLCHDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="QLCHDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLCHDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLCHDataSet5.xss">
+      <DependentUpon>QLCHDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="QLCHDataSet6.xsc">
+      <DependentUpon>QLCHDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="QLCHDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLCHDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLCHDataSet6.xss">
+      <DependentUpon>QLCHDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="Resource\368633.svg" />
+    <Content Include="Resource\d1d84a07cd146e52f9448dd56234304a.jpg" />
+    <None Include="Resource\iconfinder_export-outline_216189.ico" />
+    <Content Include="Resource\if_24_311157.ico" />
+    <Content Include="Resource\if_back_126585.ico" />
+    <Content Include="Resource\if_Close_1891023.ico" />
+    <Content Include="Resource\if_compose_1055085.ico" />
+    <Content Include="Resource\if_document-02_1622834.ico" />
+    <Content Include="Resource\if_document-new_38981.ico" />
+    <Content Include="Resource\if_document_add_48755.ico" />
+    <Content Include="Resource\if_draw-eraser_79752.ico" />
+    <Content Include="Resource\if_exit-to-app_326635.ico" />
+    <Content Include="Resource\if_exit_28363.ico" />
+    <Content Include="Resource\if_f-cross_256_282471.ico" />
+    <Content Include="Resource\if_file-manager_17904.ico" />
+    <Content Include="Resource\if_file_3131963.ico" />
+    <Content Include="Resource\if_folder_add_51912.ico" />
+    <Content Include="Resource\if_forward_126569.ico" />
+    <Content Include="Resource\if_free-27_616650.ico" />
+    <Content Include="Resource\if_friend_finder_101840.ico" />
+    <Content Include="Resource\if_gtk-refresh_48111.ico" />
+    <Content Include="Resource\if_Help_1493288.ico" />
+    <Content Include="Resource\if_icon-101-folder-search_314678.ico" />
+    <Content Include="Resource\if_icon-person-add_211872.ico" />
+    <Content Include="Resource\if_ic_done_all_48px_352324.ico" />
+    <Content Include="Resource\if_list-add-user_9381.ico" />
+    <Content Include="Resource\if_Login_73221.ico" />
+    <Content Include="Resource\if_packing_49602.ico" />
+    <Content Include="Resource\if_plus_16_22608.ico" />
+    <Content Include="Resource\if_Purse_669953.ico" />
+    <Content Include="Resource\if_search_173095.ico" />
+    <Content Include="Resource\if_search_322497.ico" />
+    <Content Include="Resource\if_shop-13_730798.ico" />
+    <Content Include="Resource\if_shopping_bag_172551.ico" />
+    <Content Include="Resource\if_userconfig_7388.ico" />
+    <Content Include="Resource\if_view-refresh_118801.ico" />
+    <None Include="Resource\login.png" />
+    <Content Include="Resource\tải xuống.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

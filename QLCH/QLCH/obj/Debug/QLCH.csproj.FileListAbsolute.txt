@@ -1,0 +1,191 @@
+D:\Lập trình windows\QLCH\QLCH\bin\Debug\QLCH.exe.config
+D:\Lập trình windows\QLCH\QLCH\bin\Debug\QLCH.exe
+D:\Lập trình windows\QLCH\QLCH\bin\Debug\QLCH.pdb
+D:\Lập trình windows\QLCH\QLCH\obj\Debug\QLCH.csprojResolveAssemblyReference.cache
+D:\Lập trình windows\QLCH\QLCH\obj\Debug\QLCH.Form1.resources
+D:\Lập trình windows\QLCH\QLCH\obj\Debug\QLCH.Properties.Resources.resources
+D:\Lập trình windows\QLCH\QLCH\obj\Debug\QLCH.csproj.GenerateResource.Cache
+D:\Lập trình windows\QLCH\QLCH\obj\Debug\QLCH.exe
+D:\Lập trình windows\QLCH\QLCH\obj\Debug\QLCH.pdb
+D:\Lập trình windows\QLCH\QLCH\obj\Debug\QLCH.BanHang.resources
+D:\Lập trình windows\QLCH\QLCH\obj\Debug\QLCH.BaoCaoBanHang.resources
+D:\Lập trình windows\QLCH\QLCH\obj\Debug\QLCH.DangKy.resources
+D:\Lập trình windows\QLCH\QLCH\obj\Debug\QLCH.KhachHang.resources
+D:\Lập trình windows\QLCH\QLCH\obj\Debug\QLCH.LoaiSP.resources
+D:\Lập trình windows\QLCH\QLCH\obj\Debug\QLCH.MainForm.resources
+D:\Lập trình windows\QLCH\QLCH\obj\Debug\QLCH.NhapHang.resources
+D:\Lập trình windows\QLCH\QLCH\obj\Debug\QLCH.SanPham.resources
+D:\Lập trình windows\QLCH\QLCH\obj\Debug\QLCH.NCC.resources
+D:\Lập trình windows\QLCH\QLCH\obj\Debug\QLCH.BaoCaoNhapHang.resources
+C:\Users\ADMIN\Downloads\QLCH\QLCH\QLCH\bin\Debug\QLCH.exe.config
+C:\Users\ADMIN\Downloads\QLCH\QLCH\QLCH\obj\Debug\QLCH.exe
+C:\Users\ADMIN\Downloads\QLCH\QLCH\QLCH\obj\Debug\QLCH.pdb
+C:\Users\ADMIN\Downloads\QLCH\QLCH\QLCH\obj\Debug\QLCH.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\QLCH\QLCH\QLCH\obj\Debug\QLCH.BanHang.resources
+C:\Users\ADMIN\Downloads\QLCH\QLCH\QLCH\obj\Debug\QLCH.BaoCaoBanHang.resources
+C:\Users\ADMIN\Downloads\QLCH\QLCH\QLCH\obj\Debug\QLCH.BaoCaoNhapHang.resources
+C:\Users\ADMIN\Downloads\QLCH\QLCH\QLCH\obj\Debug\QLCH.DangKy.resources
+C:\Users\ADMIN\Downloads\QLCH\QLCH\QLCH\obj\Debug\QLCH.KhachHang.resources
+C:\Users\ADMIN\Downloads\QLCH\QLCH\QLCH\obj\Debug\QLCH.LoaiSP.resources
+C:\Users\ADMIN\Downloads\QLCH\QLCH\QLCH\obj\Debug\QLCH.MainForm.resources
+C:\Users\ADMIN\Downloads\QLCH\QLCH\QLCH\obj\Debug\QLCH.NCC.resources
+C:\Users\ADMIN\Downloads\QLCH\QLCH\QLCH\obj\Debug\QLCH.NhapHang.resources
+C:\Users\ADMIN\Downloads\QLCH\QLCH\QLCH\obj\Debug\QLCH.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\QLCH\QLCH\QLCH\obj\Debug\QLCH.SanPham.resources
+C:\Users\ADMIN\Downloads\QLCH\QLCH\QLCH\obj\Debug\QLCH.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Downloads\QLCH\QLCH\QLCH\bin\Debug\QLCH.exe
+C:\Users\ADMIN\Downloads\QLCH\QLCH\QLCH\bin\Debug\QLCH.pdb
+C:\Users\ADMIN\Downloads\QLCH\QLCH\QLCH\obj\Debug\QLCH.DangNhap.resources
+E:\LapTrinhWindows\QLCH\QLCH\QLCH\bin\Debug\QLCH.exe.config
+E:\LapTrinhWindows\QLCH\QLCH\QLCH\bin\Debug\QLCH.exe
+E:\LapTrinhWindows\QLCH\QLCH\QLCH\bin\Debug\QLCH.pdb
+E:\LapTrinhWindows\QLCH\QLCH\QLCH\obj\Debug\QLCH.BanHang.resources
+E:\LapTrinhWindows\QLCH\QLCH\QLCH\obj\Debug\QLCH.BaoCaoBanHang.resources
+E:\LapTrinhWindows\QLCH\QLCH\QLCH\obj\Debug\QLCH.BaoCaoNhapHang.resources
+E:\LapTrinhWindows\QLCH\QLCH\QLCH\obj\Debug\QLCH.DangKy.resources
+E:\LapTrinhWindows\QLCH\QLCH\QLCH\obj\Debug\QLCH.DangNhap.resources
+E:\LapTrinhWindows\QLCH\QLCH\QLCH\obj\Debug\QLCH.KhachHang.resources
+E:\LapTrinhWindows\QLCH\QLCH\QLCH\obj\Debug\QLCH.LoaiSP.resources
+E:\LapTrinhWindows\QLCH\QLCH\QLCH\obj\Debug\QLCH.MainForm.resources
+E:\LapTrinhWindows\QLCH\QLCH\QLCH\obj\Debug\QLCH.NCC.resources
+E:\LapTrinhWindows\QLCH\QLCH\QLCH\obj\Debug\QLCH.NhapHang.resources
+E:\LapTrinhWindows\QLCH\QLCH\QLCH\obj\Debug\QLCH.Properties.Resources.resources
+E:\LapTrinhWindows\QLCH\QLCH\QLCH\obj\Debug\QLCH.SanPham.resources
+E:\LapTrinhWindows\QLCH\QLCH\QLCH\obj\Debug\QLCH.csproj.GenerateResource.cache
+E:\LapTrinhWindows\QLCH\QLCH\QLCH\obj\Debug\QLCH.csproj.CoreCompileInputs.cache
+E:\LapTrinhWindows\QLCH\QLCH\QLCH\obj\Debug\QLCH.exe
+E:\LapTrinhWindows\QLCH\QLCH\QLCH\obj\Debug\QLCH.pdb
+E:\LapTrinhWindows\QLCH\QLCH\QLCH\obj\Debug\QLCH.csprojAssemblyReference.cache
+D:\QLCHFull\QLCH\QLCH\QLCH\bin\Debug\QLCH.exe.config
+D:\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.exe
+D:\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.pdb
+D:\QLCHFull\QLCH\QLCH\QLCH\bin\Debug\QLCH.exe
+D:\QLCHFull\QLCH\QLCH\QLCH\bin\Debug\QLCH.pdb
+D:\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.csprojResolveAssemblyReference.cache
+D:\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.BanHang.resources
+D:\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.BaoCaoBanHang.resources
+D:\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.BaoCaoNhapHang.resources
+D:\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.DangKy.resources
+D:\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.DangNhap.resources
+D:\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.KhachHang.resources
+D:\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.LoaiSP.resources
+D:\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.MainForm.resources
+D:\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.NCC.resources
+D:\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.NhapHang.resources
+D:\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.Properties.Resources.resources
+D:\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.SanPham.resources
+D:\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.csproj.GenerateResource.Cache
+E:\LapTrinhWindows\QLCHFull\QLCH\QLCH\QLCH\bin\Debug\QLCH.exe.config
+E:\LapTrinhWindows\QLCHFull\QLCH\QLCH\QLCH\bin\Debug\QLCH.exe
+E:\LapTrinhWindows\QLCHFull\QLCH\QLCH\QLCH\bin\Debug\QLCH.pdb
+E:\LapTrinhWindows\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.csprojAssemblyReference.cache
+E:\LapTrinhWindows\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.BanHang.resources
+E:\LapTrinhWindows\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.BaoCaoBanHang.resources
+E:\LapTrinhWindows\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.BaoCaoNhapHang.resources
+E:\LapTrinhWindows\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.DangKy.resources
+E:\LapTrinhWindows\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.DangNhap.resources
+E:\LapTrinhWindows\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.KhachHang.resources
+E:\LapTrinhWindows\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.LoaiSP.resources
+E:\LapTrinhWindows\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.MainForm.resources
+E:\LapTrinhWindows\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.NCC.resources
+E:\LapTrinhWindows\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.NhapHang.resources
+E:\LapTrinhWindows\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.Properties.Resources.resources
+E:\LapTrinhWindows\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.SanPham.resources
+E:\LapTrinhWindows\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.csproj.GenerateResource.cache
+E:\LapTrinhWindows\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.csproj.CoreCompileInputs.cache
+E:\LapTrinhWindows\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.exe
+E:\LapTrinhWindows\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.pdb
+C:\Users\DELL\Desktop\QLCHFull\QLCHFull\QLCH\QLCH\QLCH\bin\Debug\QLCH.exe.config
+C:\Users\DELL\Desktop\QLCHFull\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.exe
+C:\Users\DELL\Desktop\QLCHFull\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.pdb
+C:\Users\DELL\Desktop\QLCHFull\QLCHFull\QLCH\QLCH\QLCH\bin\Debug\QLCH.exe
+C:\Users\DELL\Desktop\QLCHFull\QLCHFull\QLCH\QLCH\QLCH\bin\Debug\QLCH.pdb
+C:\Users\DELL\Desktop\QLCHFull\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\QLCHFull\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.BanHang.resources
+C:\Users\DELL\Desktop\QLCHFull\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.BaoCaoBanHang.resources
+C:\Users\DELL\Desktop\QLCHFull\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.BaoCaoNhapHang.resources
+C:\Users\DELL\Desktop\QLCHFull\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.DangKy.resources
+C:\Users\DELL\Desktop\QLCHFull\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.DangNhap.resources
+C:\Users\DELL\Desktop\QLCHFull\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.KhachHang.resources
+C:\Users\DELL\Desktop\QLCHFull\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.LoaiSP.resources
+C:\Users\DELL\Desktop\QLCHFull\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.MainForm.resources
+C:\Users\DELL\Desktop\QLCHFull\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.NCC.resources
+C:\Users\DELL\Desktop\QLCHFull\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.NhapHang.resources
+C:\Users\DELL\Desktop\QLCHFull\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.Properties.Resources.resources
+C:\Users\DELL\Desktop\QLCHFull\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.SanPham.resources
+C:\Users\DELL\Desktop\QLCHFull\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.csproj.GenerateResource.Cache
+D:\AI\QLCHFull\QLCHFull\QLCH\QLCH\QLCH\bin\Debug\QLCH.exe.config
+D:\AI\QLCHFull\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.exe
+D:\AI\QLCHFull\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.pdb
+D:\AI\QLCHFull\QLCHFull\QLCH\QLCH\QLCH\bin\Debug\QLCH.exe
+D:\AI\QLCHFull\QLCHFull\QLCH\QLCH\QLCH\bin\Debug\QLCH.pdb
+D:\AI\QLCHFull\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.csprojResolveAssemblyReference.cache
+D:\AI\QLCHFull\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.BanHang.resources
+D:\AI\QLCHFull\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.BaoCaoBanHang.resources
+D:\AI\QLCHFull\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.BaoCaoNhapHang.resources
+D:\AI\QLCHFull\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.DangKy.resources
+D:\AI\QLCHFull\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.DangNhap.resources
+D:\AI\QLCHFull\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.KhachHang.resources
+D:\AI\QLCHFull\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.LoaiSP.resources
+D:\AI\QLCHFull\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.MainForm.resources
+D:\AI\QLCHFull\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.NCC.resources
+D:\AI\QLCHFull\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.NhapHang.resources
+D:\AI\QLCHFull\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.Properties.Resources.resources
+D:\AI\QLCHFull\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.SanPham.resources
+D:\AI\QLCHFull\QLCHFull\QLCH\QLCH\QLCH\obj\Debug\QLCH.csproj.GenerateResource.Cache
+D:\Hệ điều hành\QLCH\QLCH\bin\Debug\QLCH.exe.config
+D:\Hệ điều hành\QLCH\QLCH\obj\Debug\QLCH.exe
+D:\Hệ điều hành\QLCH\QLCH\obj\Debug\QLCH.pdb
+D:\Hệ điều hành\QLCH\QLCH\obj\Debug\QLCH.csprojResolveAssemblyReference.cache
+D:\Hệ điều hành\QLCH\QLCH\obj\Debug\QLCH.BaoCaoBanHang.resources
+D:\Hệ điều hành\QLCH\QLCH\obj\Debug\QLCH.BaoCaoNhapHang.resources
+D:\Hệ điều hành\QLCH\QLCH\obj\Debug\QLCH.DangKy.resources
+D:\Hệ điều hành\QLCH\QLCH\obj\Debug\QLCH.DangNhap.resources
+D:\Hệ điều hành\QLCH\QLCH\obj\Debug\QLCH.KhachHang.resources
+D:\Hệ điều hành\QLCH\QLCH\obj\Debug\QLCH.LoaiSP.resources
+D:\Hệ điều hành\QLCH\QLCH\obj\Debug\QLCH.MainForm.resources
+D:\Hệ điều hành\QLCH\QLCH\obj\Debug\QLCH.NCC.resources
+D:\Hệ điều hành\QLCH\QLCH\obj\Debug\QLCH.NhapHang.resources
+D:\Hệ điều hành\QLCH\QLCH\obj\Debug\QLCH.Properties.Resources.resources
+D:\Hệ điều hành\QLCH\QLCH\obj\Debug\QLCH.SanPham.resources
+D:\Hệ điều hành\QLCH\QLCH\obj\Debug\QLCH.csproj.GenerateResource.Cache
+D:\Hệ điều hành\QLCH\QLCH\bin\Debug\QLCH.exe
+D:\Hệ điều hành\QLCH\QLCH\bin\Debug\QLCH.pdb
+D:\Hệ điều hành\QLCH\QLCH\obj\Debug\QLCH.report.resources
+D:\Hệ điều hành\QLCH\QLCH\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Hệ điều hành\QLCH\QLCH\obj\Debug\RdlCompile.cache
+D:\Hệ điều hành\QLCH\QLCH\obj\Debug\RdlCompile.compiled
+D:\Hệ điều hành\QLCH\QLCH\obj\Debug\QLCH.BanHang.resources
+D:\Hệ điều hành\QLCH\QLCH\obj\Debug\QLCH.Static.resources
+D:\Hệ điều hành\QLCH\QLCH\obj\Debug\QLCH.DoiMatKhau.resources
+D:\Hệ điều hành\QLCH\QLCH\obj\Debug\QLCH.reportNhapHang.resources
+D:\Hệ điều hành\QLCH\QLCH\obj\Debug\QLCH.staticNhapHang.resources
+D:\Hệ điều hành\QLCH\QLCH\obj\Debug\QLCH.SanPhamDaMua.resources
+E:\LapTrinhWindows\Full\QLCH\QLCH\obj\Debug\QLCH.csprojAssemblyReference.cache
+E:\LapTrinhWindows\Full\QLCH\QLCH\obj\Debug\QLCH.BanHang.resources
+E:\LapTrinhWindows\Full\QLCH\QLCH\obj\Debug\QLCH.BaoCaoBanHang.resources
+E:\LapTrinhWindows\Full\QLCH\QLCH\obj\Debug\QLCH.BaoCaoNhapHang.resources
+E:\LapTrinhWindows\Full\QLCH\QLCH\obj\Debug\QLCH.DangKy.resources
+E:\LapTrinhWindows\Full\QLCH\QLCH\obj\Debug\QLCH.DangNhap.resources
+E:\LapTrinhWindows\Full\QLCH\QLCH\obj\Debug\QLCH.DoiMatKhau.resources
+E:\LapTrinhWindows\Full\QLCH\QLCH\obj\Debug\QLCH.KhachHang.resources
+E:\LapTrinhWindows\Full\QLCH\QLCH\obj\Debug\QLCH.LoaiSP.resources
+E:\LapTrinhWindows\Full\QLCH\QLCH\obj\Debug\QLCH.MainForm.resources
+E:\LapTrinhWindows\Full\QLCH\QLCH\obj\Debug\QLCH.NCC.resources
+E:\LapTrinhWindows\Full\QLCH\QLCH\obj\Debug\QLCH.NhapHang.resources
+E:\LapTrinhWindows\Full\QLCH\QLCH\obj\Debug\QLCH.Properties.Resources.resources
+E:\LapTrinhWindows\Full\QLCH\QLCH\obj\Debug\QLCH.report.resources
+E:\LapTrinhWindows\Full\QLCH\QLCH\obj\Debug\QLCH.reportNhapHang.resources
+E:\LapTrinhWindows\Full\QLCH\QLCH\obj\Debug\QLCH.SanPham.resources
+E:\LapTrinhWindows\Full\QLCH\QLCH\obj\Debug\QLCH.SanPhamDaMua.resources
+E:\LapTrinhWindows\Full\QLCH\QLCH\obj\Debug\QLCH.Static.resources
+E:\LapTrinhWindows\Full\QLCH\QLCH\obj\Debug\QLCH.staticNhapHang.resources
+E:\LapTrinhWindows\Full\QLCH\QLCH\obj\Debug\QLCH.csproj.GenerateResource.cache
+E:\LapTrinhWindows\Full\QLCH\QLCH\obj\Debug\QLCH.csproj.CoreCompileInputs.cache
+E:\LapTrinhWindows\Full\QLCH\QLCH\obj\Debug\QLCH.exe
+E:\LapTrinhWindows\Full\QLCH\QLCH\obj\Debug\QLCH.pdb
+E:\LapTrinhWindows\Full\QLCH\QLCH\bin\Debug\QLCH.exe.config
+E:\LapTrinhWindows\Full\QLCH\QLCH\bin\Debug\QLCH.exe
+E:\LapTrinhWindows\Full\QLCH\QLCH\bin\Debug\QLCH.pdb
+E:\LapTrinhWindows\Full\QLCH\QLCH\obj\Debug\QLCH.csproj.CopyComplete
+E:\LapTrinhWindows\Full\QLCH\QLCH\obj\Debug\QLCH.MainForm2.resources
